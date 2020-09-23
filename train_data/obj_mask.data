@@ -1,0 +1,5 @@
+classes = 21
+train = ./train_data/train.txt
+valid = ./train_data/test.txt
+names = ./train_data/obj_mask.names
+backup = ./backup/mask/
